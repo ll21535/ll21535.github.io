@@ -2,7 +2,8 @@
 
 ## Projects
 
-- Project 1: Description
+- [Project 1: EMS Station](project-1-ems-station.md)
+
 
 - Project 2: Description
 

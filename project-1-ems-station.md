@@ -51,13 +51,9 @@ for example, by dragging Alonzo over the fire incident, it changes him into a fi
 Stage description:
 <img width="1222" height="616" alt="image" src="https://github.com/user-attachments/assets/6a7672d8-73f9-4240-a486-6c26ef0507b7" />
 The Stage handles how the physical LEDs, Servos, and Sensors interact with the environment:
-
 Sound activated lights: If the Sound Sensor value is greater than 20 then LED 1 (yellow light) ON and LED 2 (green light) OFF. If the value for the Sound Sensor is less than or equal to 20 then LED 1 (yellow light) OFF and LED 2 (green light) ON.
-
 Emergency Flashers: When emergency broadcast is heard, a sequenced script toggles on yellow light and green light to manage traffic during the emergency.
-
 Safe reset: When space is pressed, it will reset all the lights and kills power to the led lights causing them to turn off.
-
 
 
 Problem I ran into: for the light of my traffic light, I put the yellow and green cables in the wrong places.
@@ -65,6 +61,5 @@ I solved this problem by switching my wire from my G spot to my B spot and my B 
 
 
 Final thoughts/Reflection.
-
 Im proud of my code final product and how it turned out.
 Sadly, we did not get to finish the garage door because there was not enough time for the class.

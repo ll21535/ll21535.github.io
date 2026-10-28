@@ -40,7 +40,7 @@ Fire: Switches costume to firescratchcat
 <img width="1219" height="409" alt="image" src="https://github.com/user-attachments/assets/aba441ad-3bec-4756-8354-93f4d9a66c68" />
 Tree: Switches costume to catuptree
 
-On start, they switch to these costumes and shrink to 35% of their size. Then wait until Alonzo touches them and verifies if Alonzo is in his original form.
+Incident Sprite Code descriptions: On start, they switch to these costumes and shrink to 35% of their size. Then wait until Alonzo touches them and verifies if Alonzo is in his original form.
 When they are touched if Alonzo is in his original form, they broadcast emergency and activate the emergency lights/buzzer lights. and tell Alonzo to switch into the matching costume.
 
 <img width="197" height="233" alt="image" src="https://github.com/user-attachments/assets/ffd0fd3d-2bef-4056-a329-85df89e13881" />

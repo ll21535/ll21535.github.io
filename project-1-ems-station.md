@@ -44,6 +44,7 @@ When they are touched if Alonzo is in his original form, they broadcast emergenc
 for example, by dragging Alonzo over the fire incident, it changes him into a firefighter outfit, like in the screenshot.
 
 
+<img width="1212" height="633" alt="image" src="https://github.com/user-attachments/assets/5d64199e-077e-4833-ad57-949a8c430b77" />
 
 
 6. How the System Works

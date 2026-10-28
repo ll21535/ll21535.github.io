@@ -55,7 +55,7 @@ Safe reset: When space is pressed, it will reset all the lights and kills power 
 
 
 
-Problem I ran into: for the light of my traffic light, I put the blue and green cables in the wrong places.
+Problem I ran into: for the light of my traffic light, I put the yellow and green cables in the wrong places.
 I solved this problem by switching my wire from my G spot to my B spot and my B spot wire to my G spot wire.
 
 6. How the System Works

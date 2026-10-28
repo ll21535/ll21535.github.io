@@ -16,7 +16,7 @@ I planned to make a garage door so it can open when there are emergencies for ve
 <img width="828" height="828" alt="image" src="https://github.com/user-attachments/assets/462c4ee3-6818-43a9-b671-ca3c6b244e65" />
 Here's a picture of me hooking up the microbit controller to the computer! we used batteries to power it (provided by Mr Davisson)
 
-Caption: Describe your early sketch or diagram here.
+
 <img width="517" height="385" alt="Screenshot 2026-10-27 201400" src="https://github.com/user-attachments/assets/38bbf26d-f0e2-407f-9cc1-02a999ea6537" />
 Here's my early sketch. The arch being opened when an emergency is happening.
 

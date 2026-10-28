@@ -32,7 +32,7 @@ Alonzo Sprite code and description:
 <img width="1054" height="657" alt="image" src="https://github.com/user-attachments/assets/d65f4f21-d187-4ef4-aeaa-7ba0d01cac05" />
 This is the code for Alonzo. Here's what the coding blocks mean. when space key pressed: Connects the software to Hummingbird Port A so the computer can talk to the robot. when green flag clicked (Setup): Resets Alonzo to 75% size, teleports him to the center, flips him 180 degrees, switches to his starting costume, and broadcasts ready for emergency to prime the game. when green flag clicked (Movement): Runs a forever loop that forces Alonzo to follow your mouse pointer so you can steer him around the map. when the green flag clicked (Sound Reaction): Continuously checks the physical sound sensor. If ambient noise goes over 30, it spins Position Servo 1 to 90 degrees. when I receive emergency: Loops a two-tone alarm (Note 71 and Note 70) repeatedly until Alonzo's costume switches back to costume #1.
 
-Incident Sprite code and description:
+Incident Sprite codes:
 <img width="1222" height="624" alt="image" src="https://github.com/user-attachments/assets/363ef940-2e28-4037-9347-755081583c16" />
 Medical: Switches costume to hurtscratchscat 
 <img width="1219" height="631" alt="image" src="https://github.com/user-attachments/assets/89cc8b31-b112-4fc0-a787-f71e5b0391aa" />

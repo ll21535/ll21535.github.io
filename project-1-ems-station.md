@@ -22,12 +22,11 @@ Another picture of me, testing out the green light after connecting it into the 
 
 <img width="804" height="770" alt="image" src="https://github.com/user-attachments/assets/7463ee2b-580d-4774-a267-6ea21a33eca9" />
 
-Another picture of me, testing out the green light after connecting it into the slots.
 
+Here's my early sketch. The arch being opened when an emergency is happening.
 <img width="517" height="385" alt="Screenshot 2026-10-27 201400" src="https://github.com/user-attachments/assets/38bbf26d-f0e2-407f-9cc1-02a999ea6537" />
 
 
-Here's my early sketch. The arch being opened when an emergency is happening.
 
 Alonzo Sprite code and description:
 <img width="1054" height="657" alt="image" src="https://github.com/user-attachments/assets/d65f4f21-d187-4ef4-aeaa-7ba0d01cac05" />

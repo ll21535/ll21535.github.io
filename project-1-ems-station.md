@@ -12,7 +12,7 @@ I build an EMS station using a microbit controller and the hummingbird kit conne
 Planning & Design
 I planned to make a garage door so it can open when there are emergencies for vehicles to come out.
 
- Hooking it up.
+
 <img width="828" height="828" alt="image" src="https://github.com/user-attachments/assets/462c4ee3-6818-43a9-b671-ca3c6b244e65" />
 Here's a picture of me hooking up the microbit controller to the computer! we used batteries to power it (provided by Mr Davisson)
 

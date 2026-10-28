@@ -17,6 +17,9 @@ I planned to make a garage door so it can open when there are emergencies for ve
 
 Here's a picture of me hooking up the microbit controller to the computer! we used batteries to power it (provided by Mr Davisson)
 
+<img width="804" height="770" alt="image" src="https://github.com/user-attachments/assets/7463ee2b-580d-4774-a267-6ea21a33eca9" />
+
+Another picture of me, testing out the green light after connecting it into the slots.
 
 <img width="517" height="385" alt="Screenshot 2026-10-27 201400" src="https://github.com/user-attachments/assets/38bbf26d-f0e2-407f-9cc1-02a999ea6537" />
 
@@ -58,32 +61,8 @@ Safe reset: When space is pressed, it will reset all the lights and kills power 
 Problem I ran into: for the light of my traffic light, I put the yellow and green cables in the wrong places.
 I solved this problem by switching my wire from my G spot to my B spot and my B spot wire to my G spot wire.
 
-6. How the System Works
 
-Here is the step-by-step breakdown of my completed system, mapped from input to output:
-• Inputs (Sensors): [List your inputs, like the Sound Sensor or Light Sensor, and what information they send to the computer.]
-• Processing (Snap! Decisions): [Explain how your code decides to act. How does it know an emergency occurred? When does it change the lights or close the garage door?]
-• Outputs (Actuators/Sprites): [List your outputs, like LEDs, Servos, Sounds, or Sprite behaviors.]
+Final thoughts/Reflection.
 
-The Full Operational Sequence
-
-1. Emergency Trigger: [Step 1 description]
-2. System Response: [Step 2 description - Lights, sirens, garage door opens]
-3. Vehicle Departure: [Step 3 description - Vehicle passes sensor]
-4. System Reset: [Step 4 description - Door closes, lights return to normal]
-
-7. Testing & Debugging
-
-I ran into some challenges while building and programming my EMS station. Here are the main problems I ran into and how I fixed them:
-
-Problems I Ran Into
-
-• The Problem: [Describe exactly what went wrong or what challenge you experienced.]
-• Hypothesis: [What did you think was causing the issue?]
-• The Test/Fix: [What did you change, adjust, or rewrite to try and solve it?]
-• The Result & Lesson: [Did your solution work? What did you learn from solving this problem?]
-
-8. Personal Contributions
-
-• [Your Name]: [Detail your individual responsibilities, code sections, and building tasks since you executed the project entirely on your own.]
-****
+Im proud of my code final product and how it turned out.
+Sadly, we did not get to finish the garage door because there was not enough time for the class.

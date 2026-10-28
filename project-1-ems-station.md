@@ -9,10 +9,10 @@ title: "Project 1: EMS Station"
 
 I build an EMS station using a microbit controller and the hummingbird kit connected to the computer. The traffic light should flash yellow when an emergency is initiated, cars should stop moving and a garage door should open for emergency vehicles.
 
-2. Planning & Design
+Planning & Design
 I planned to make a garage door so it can open when there are emergencies for vehicles to come out.
 
-3 Hooking it up.
+ Hooking it up.
 <img width="828" height="828" alt="image" src="https://github.com/user-attachments/assets/462c4ee3-6818-43a9-b671-ca3c6b244e65" />
 Here's a picture of me hooking up the microbit controller to the computer! we used batteries to power it (provided by Mr Davisson)
 
@@ -38,11 +38,12 @@ On start, they switch to these costumes and shrink to 35% of their size. Then wa
 When they are touched if Alonzo is in his original form, they broadcast emergency and activate the emergency lights/buzzer lights. and tell Alonzo to switch into the matching costume.
 
 <img width="197" height="233" alt="image" src="https://github.com/user-attachments/assets/ffd0fd3d-2bef-4056-a329-85df89e13881" />
+
+
 for example, by dragging Alonzo over the fire incident, it changes him into a firefighter outfit, like in the screenshot.
 
 
-👉 Click Here to View My Live Snap! Project
-(Note: Please ensure your project is shared publicly so anyone can inspect the code!)
+
 
 6. How the System Works
 

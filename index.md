@@ -5,7 +5,8 @@
 - [Project 1: EMS Station](project-1-ems-station.md)
 
 
-- Project 2: Description
+- [Project 2: Automated Railroad Crossing](project-2-railroad-crossing.md)
+
 
 ## About Me
 

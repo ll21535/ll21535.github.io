@@ -2,7 +2,9 @@ Project 2: Railroad Crossing
 
 
 By Leon L
-**Hardware:** BBC micro:bit + BirdBrain Hummingbird Bit Robotics Kit  
+
+
+**Hardware:** micro:bit + BirdBrain Hummingbird Bit Robotics Kit  
 **Software:** Snap!
 
 ---

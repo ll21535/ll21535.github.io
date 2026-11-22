@@ -25,10 +25,13 @@ An early sketch of what I have planned, you can see the servo being used as a st
 
 ## Build Process
 <img width="574" height="748" alt="image" src="https://github.com/user-attachments/assets/6e85fc9b-e057-4668-b29b-76180b91bcb5" />
+
 I used a small piece of cardboard as it's purpose is to be the sign that moves position to position.
 
 
 <img width="856" height="756" alt="image" src="https://github.com/user-attachments/assets/0f79617b-d4f7-4948-af9b-1a19590c3a70" />
+
+
 Plugged the light in
 
 ## Code

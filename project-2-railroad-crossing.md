@@ -18,6 +18,8 @@ By Leon L
 
 ## Planning & Design
 <img width="896" height="1189" alt="image_fa06b0a8" src="https://github.com/user-attachments/assets/f3143209-7ca9-4f54-9bf0-4f4d5a70f883" />
+
+
 An early sketch of what I have planned, you can see the servo being used as a stop gate in this situation moving to a different position so it serves as a traffic light almost but for trains.
 
 

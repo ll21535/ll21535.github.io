@@ -11,6 +11,7 @@ By Leon L
 
 ## Project Overview
 * **What we are building:**
+* A railroad station that detects when a train comes
 * 
 * **What it should do:** [Explain the main goal and behavior, e.g., when someone approaches the distance sensor, the LED changes color and the servos move].
 

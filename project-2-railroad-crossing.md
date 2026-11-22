@@ -10,32 +10,30 @@ By Leon L
 ---
 
 ## Project Overview
-* **What we are building:** [Describe your robot or interactive device, e.g., an automated cardboard gate/creature].
+* **What we are building:**
+* 
 * **What it should do:** [Explain the main goal and behavior, e.g., when someone approaches the distance sensor, the LED changes color and the servos move].
 
 ---
 
 ## Planning & Design
-[Insert pictures of your initial sketches or wiring diagrams here]
+<img width="896" height="1189" alt="image_fa06b0a8" src="https://github.com/user-attachments/assets/f3143209-7ca9-4f54-9bf0-4f4d5a70f883" />
+An early sketch of what I have planned, you can see the servo being used as a stop gate in this situation moving to a different position so it serves as a traffic light almost but for trains.
 
 
 ---
 
 ## Build Process
-### Step 1: [e.g., Cardboard Base & Mounting]
+<img width="574" height="748" alt="image" src="https://github.com/user-attachments/assets/6e85fc9b-e057-4668-b29b-76180b91bcb5" />
+I used a small piece of cardboard as it's purpose is to be the sign that moves position to position.
 
 
-*Caption: [Explain what you built or wired in this step].*
-
-### Step 2: [e.g., Wiring the Hummingbird Bit]
-[Insert progress photo/video]  
-*Caption: [Explain how you connected the sensors, LEDs, and battery pack].*
-
----
+<img width="856" height="756" alt="image" src="https://github.com/user-attachments/assets/0f79617b-d4f7-4948-af9b-1a19590c3a70" />
+Plugged the light in
 
 ## Code
-
-
+<img width="992" height="609" alt="image" src="https://github.com/user-attachments/assets/78d6becb-fdc6-4b4a-981f-56aece5c4380" />
+Code description: when you press the spacebar, it connects your robot, and there's a little floating block at the top that just shows how far away things are from your sensor so you can test it. Once you hit the green flag, the main loop starts watching the distance sensor, and if a train gets closer than 15 centimeters, it saves the date, time, and speed to a list, drops the crossing gate down to 90 degrees and makes the light flash red while playing a warning beep. When the train isn't there, it lifts the gate back up to 0 degrees. 
 
 ### Snap! Project Link
 * **[Click here to view our live Snap! Program]([Paste your working, shared Snap! URL here])**
@@ -43,13 +41,13 @@ By Leon L
 ---
 
 ## How It Works
-
+When a train comes by, the sensor would detect it and initiate the crossing activation. Which positions the servo to move the sign 90 degrees and flashes the light red for 2.5 seconds to let "pedestrians" walk by. It also plays a kind of loud note that lets people know it is available to walk.
 
 
 ---
 
 ## Testing & Debugging
-
+The train
 
 ---
 
